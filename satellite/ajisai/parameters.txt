@@ -1,0 +1,19 @@
+mass: 685.2kg
+sphere of 215cm diameter
+net sectional area: 3.63 m^2
+
+318 mirrors
+120 laser retroreflector assemblies
+
+launched on Aug.12 1986(20:45 UTC)
+from TNSC
+
+near-circular orbit
+perigee ~ 1490km
+e = 0.001
+i = 50 degree
+period = 116 min
+
+TLE:
+1 16908U 86061A   20060.29693262 -.00000104  00000-0 -46039-4 0  9995
+2 16908  50.0118  19.3273 0011407  86.2507  60.2336 12.44491179194148
