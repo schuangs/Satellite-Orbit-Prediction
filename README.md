@@ -1,7 +1,7 @@
 # Satellite-Orbit-Prediction
 Programs for the prediction of satellite orbit in Python.
 
-@author Junkang Huang   m15876657435@163.com
+@author Junkang Huang   huangjk8@mail2.sysu.edu.cn
 
 
 
